@@ -11,5 +11,5 @@ def multiplyBy2(number)
 end
 
 
-multiplyBy2(2) # 4
-multiplyBy2(8) # 
+number = multiplyBy2(2) # 4
+multiplyBy2(8) # 16
