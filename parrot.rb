@@ -6,7 +6,7 @@ def parrot(phrase = "Squawk!")
   return "#{phrase}"
 end
 
-def multiplyB(number)
+def multiplyBy2(number)
   return number * 2 
 end
 
